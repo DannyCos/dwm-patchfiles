@@ -11,7 +11,7 @@
 -static const char *fonts[]          = { "monospace:size=10" };
 -static const char dmenufont[]       = "monospace:size=10";
 +static const int focusonwheel       = 0;
-+static const char *fonts[]          = { "Hack:style=Regular:size=12" };
++static const char *fonts[]          = { "Hack:style=Regular:size=11" };
 +static const char dmenufont[]       = "Hack:style=Regular:size=11";
 +static unsigned int baralpha        = 0xd0;
 +static unsigned int borderalpha     = OPAQUE;
